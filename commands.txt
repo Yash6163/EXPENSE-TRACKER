@@ -1,0 +1,1 @@
+In order to run the file vs code open the terminal navigate using cd and once u reach file destinatino run it using "streamlit run code.py"
